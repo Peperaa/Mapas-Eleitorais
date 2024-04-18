@@ -1,6 +1,6 @@
-# Mapas Eleitorais
-Os notebooks explicam como criar mapas eleitorais e convertê-los em um formato interativo para a web.
+# Base de Dados
 
-Código aberto para uso pessoal e de estudo somente. Não autorizado o uso comercial. 
+Esse repositório contem os notebooks de criação de mapas coropléticos e de transforma-los em mapas interativos em HTML.
 
-Caso tenha interesse em contratar meus serviços, por favor entrar em contato em pedro.gabriel.pereira@alumni.usp.br
+- Dados Eleitorais de SP: https://www.tre-sp.jus.br/eleicoes/eleicoes-anteriores
+- Dados Eleitorais Nacionais: https://dadosabertos.tse.jus.br
